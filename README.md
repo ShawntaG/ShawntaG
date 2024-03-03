@@ -12,16 +12,11 @@ I aspire to transition into Cloud Engineering focused on:
 - Leveraging Python for automation and scripting tasks
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Build/Deploy End to End Web App         | <a href="https://github.com/ShawntaG/Deploy-Full-End-to-End-Web-APP/blob/main/README.md">Ride Sharing APP</a>|
+
 
 ## Tools
 
@@ -39,3 +34,4 @@ I aspire to transition into Cloud Engineering focused on:
 </div>
 
 ## Projects
+Build/Deploy services for End to End Ride Sharing App
