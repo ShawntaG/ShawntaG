@@ -1,5 +1,5 @@
 # Hello, I'm Shawnta
-<a href="www.linkedin.com/in/shawnta-gary-45b897120"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shawnta-gary-45b897120"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Experienced Network Engineer, with experience in designing and implementing strategic network plans. 
 
